@@ -7,50 +7,50 @@ AvatarMask:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Upper Body
-  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
   m_Elements:
   - m_Path: 
     m_Weight: 1
   - m_Path: Ch33_Belt
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Ch33_Body
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Ch33_Eyelashes
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Ch33_Hair
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Ch33_Pants
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Ch33_Shirt
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Ch33_Shoes
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Ch33_Suit
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Ch33_Tie
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: mixamorig7:Hips
     m_Weight: 0
   - m_Path: mixamorig7:Hips/mixamorig7:LeftUpLeg
     m_Weight: 0
   - m_Path: mixamorig7:Hips/mixamorig7:LeftUpLeg/mixamorig7:LeftLeg
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: mixamorig7:Hips/mixamorig7:LeftUpLeg/mixamorig7:LeftLeg/mixamorig7:LeftFoot
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: mixamorig7:Hips/mixamorig7:LeftUpLeg/mixamorig7:LeftLeg/mixamorig7:LeftFoot/mixamorig7:LeftToeBase
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: mixamorig7:Hips/mixamorig7:LeftUpLeg/mixamorig7:LeftLeg/mixamorig7:LeftFoot/mixamorig7:LeftToeBase/mixamorig7:LeftToe_End
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: mixamorig7:Hips/mixamorig7:RightUpLeg
     m_Weight: 0
   - m_Path: mixamorig7:Hips/mixamorig7:RightUpLeg/mixamorig7:RightLeg
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: mixamorig7:Hips/mixamorig7:RightUpLeg/mixamorig7:RightLeg/mixamorig7:RightFoot
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: mixamorig7:Hips/mixamorig7:RightUpLeg/mixamorig7:RightLeg/mixamorig7:RightFoot/mixamorig7:RightToeBase
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: mixamorig7:Hips/mixamorig7:RightUpLeg/mixamorig7:RightLeg/mixamorig7:RightFoot/mixamorig7:RightToeBase/mixamorig7:RightToe_End
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: mixamorig7:Hips/mixamorig7:Spine
     m_Weight: 0
   - m_Path: mixamorig7:Hips/mixamorig7:Spine/mixamorig7:Spine1
