@@ -60,7 +60,7 @@ public class VautingNode
 
         Vector3 firstCastDir = moveAbleObject.transform.forward;
         Vector3 secondCastDir = Vector3.down;
-        Vector3 firstCastDes = firstCastPos +Vector3.up*3;
+        Vector3 firstCastDes = firstCastPos + Vector3.up*3;
 
         if (obstacleDetection.GetEdgeObstaclePos(0.025f, firstCastDir, firstCastPos, firstCastDes, 0.5f, out Vector3 edgePosFirst)) {
 
