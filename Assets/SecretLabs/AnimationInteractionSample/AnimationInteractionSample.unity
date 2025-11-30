@@ -285,10 +285,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AnimationSampler
   animator: {fileID: 619632486}
   animationClip: {fileID: 7400000, guid: e305232f848137141bea396bdf211f45, type: 2}
+  animation: {fileID: 0}
   normalizedTime: 0
   resetToTPoseAfterSample: 0
   isManualRootMotionEnable: 0
   isCaptureAnchorRoot: 0
+  lastFrameRootPosition: {x: 0, y: 0, z: 0}
+  lastFrameRootRotation: {x: 0, y: 0, z: 0, w: 0}
+  hasLastFrame: 0
 --- !u!4 &619632488
 Transform:
   m_ObjectHideFlags: 0
